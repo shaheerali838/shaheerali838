@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on a React-based GSAP video carousel with animated progress syncing, and also creating content for my YouTube channel Bug to Brilliance.<br>🤝 I’m looking to collaborate on open source projects, web development tutorials, and creative UI/UX designs.<br>💬 I’m looking for help with optimizing React performance and cybersecurity best practices.<br>🌱 I’m currently learning Linear Algebra, GSAP animation, and JavaScript design patterns.<br>💬 Ask me about Frontend development, JavaScript, WordPress/Blogger customization.<br>⚡ Fun fact: I started as a Pre-Med student before diving deep into the world of code—and now I teach others what I learn!
+🔭 I’m currently working on a React-based GSAP video carousel featuring animated progress tracking and smooth transitions.<br>
+🤝 I’m looking to collaborate on modern web development projects, especially those involving React, animation libraries, or UI/UX enhancement.<br>
+💬 I’m looking for help with performance optimization in React and advanced component architecture.<br>
+🌱 I’m currently learning GSAP animations, JavaScript design patterns, and strengthening my knowledge in frontend architecture.<br>
+💬 Ask me about frontend development, JavaScript, Blogger/WordPress integration, or UI animation workflows.<br>
+⚡ Fun fact: I transitioned from a Pre-Med background to tech—and now I help others learn through my YouTube channel, *Bug to Brilliance*.
+
 
 
 ## 🌐 Socials:
