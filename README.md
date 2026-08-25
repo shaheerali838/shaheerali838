@@ -1,30 +1,180 @@
-# 💫 About Me:
-🔭 I’m currently working on a React-based GSAP video carousel featuring animated progress tracking and smooth transitions.<br>
-🤝 I’m looking to collaborate on modern web development projects, especially those involving React, animation libraries, or UI/UX enhancement.<br>
-💬 I’m looking for help with performance optimization in React and advanced component architecture.<br>
-🌱 I’m currently learning GSAP animations, JavaScript design patterns, and strengthening my knowledge in frontend architecture.<br>
-💬 Ask me about frontend development, JavaScript, Blogger/WordPress integration, or UI animation workflows.<br>
-⚡ Fun fact: I transitioned from a Pre-Med background to tech—and now I help others learn through my YouTube channel, *Bug to Brilliance*.
+# 👋 Hi, I'm Shaheer Ali
 
+### Full-Stack Developer • Technical Team Lead • Software Engineering • AI
 
+I’m a **Full-Stack Developer and Technical Team Lead** focused on designing and building reliable, scalable web applications and turning complex requirements into practical software solutions.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shaheerali838) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaheerali838) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/shaheerali838) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Bug-to-Brilliance) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaheer838838@gmail.com) 
+I enjoy working across the **frontend, backend, databases, APIs, architecture, and development workflows**, while continuously exploring AI, cybersecurity, cloud technologies, and modern software engineering practices.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+---
+
+# 💫 About Me
+
+🔭 **Currently working on**
+Leading a web development team at **Saylani Mass IT Training** while building and exploring full-stack applications, including the **Pure Milk Bar ERP/POS system** and an **AI-Powered Notes Summarizer**.
+
+🌱 **Currently learning**
+Deepening my knowledge of **AI integrations with the Gemini API, cybersecurity, system design, scalable architectures, cloud technologies, and modern full-stack development workflows**.
+
+👯 **Looking to collaborate on**
+**Open-source projects, full-stack applications, AI-assisted platforms, developer tools, educational technology, and innovative software solutions**.
+
+🤝 **Looking to explore**
+**Scalable system architecture, cloud infrastructure, application security, performance optimization, distributed systems, and advanced network security**.
+
+💬 **Ask me about**
+**React, Node.js, Express.js, MongoDB, REST APIs, database architecture, Mongoose, DBML, authentication & authorization, RBAC, prompt engineering, AI-assisted development, Git/GitHub, and technical team management**.
+
+⚡ **Fun fact**
+I enjoy **teaching as much as building** — I create educational content and web development tutorials to share what I learn with other developers.
+
+---
+
+# 🚀 What I Build
+
+I enjoy building software across different domains rather than limiting myself to a single type of application.
+
+* 🌐 **Full-Stack Web Applications**
+* 🏢 **Business & Management Systems**
+* 🤖 **AI-Powered Applications**
+* 🔐 **Authentication, Authorization & RBAC Systems**
+* 🗄️ **Data-Driven Applications**
+* ⚙️ **REST APIs & Backend Systems**
+* ☁️ **Cloud-Ready Applications**
+* 🛠️ **Developer Tools & Automation**
+* 🎓 **Educational Technology**
+* 👥 **Collaborative Software Platforms**
+
+---
+
+# 💻 Tech Stack
+
+## 🧑‍💻 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+
+## ⚛️ Frontend Development
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js\&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge\&logo=react-router\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge\&logo=vite\&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-000000?style=for-the-badge\&logo=react)
+
+## 🛠️ Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
+![EJS](https://img.shields.io/badge/EJS-%23B4CA65.svg?style=for-the-badge\&logo=ejs\&logoColor=black)
+
+### 🔐 Authentication & API Technologies
+
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=JSON%20web%20tokens)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+## 🗄️ Databases & Backend Services
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge\&logo=firebase\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+
+## ☁️ Cloud, DevOps & Deployment
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge\&logo=netlify\&logoColor=%2300C7B7)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge\&logo=render\&logoColor=white)
+
+## 🔧 Development & Collaboration
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge\&logo=gitlab\&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge\&logo=npm\&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge\&logo=eslint\&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge\&logo=jira\&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge\&logo=notion\&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge\&logo=WordPress\&logoColor=white)
+
+---
+
+# 🧠 Engineering Interests
+
+My current interests extend beyond a single framework or technology.
+
+```text
+Software Engineering
+│
+├── Full-Stack Development
+│   ├── Frontend Architecture
+│   ├── Backend Engineering
+│   └── API Development
+│
+├── System Design
+│   ├── Scalable Architecture
+│   ├── Database Design
+│   └── Distributed Systems
+│
+├── Security
+│   ├── Authentication & Authorization
+│   ├── RBAC
+│   ├── Application Security
+│   └── Network Security
+│
+├── AI & Automation
+│   ├── Gemini API
+│   ├── AI-Assisted Development
+│   └── Prompt Engineering
+│
+└── Engineering Practices
+    ├── Git & CI/CD
+    ├── DevOps
+    ├── Code Quality
+    └── Team Collaboration
+```
+
+---
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shaheerali838&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shaheerali838&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheerali838&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shaheerali838&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-readme-stats.shion.dev/api?username=shaheerali838&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=shaheerali838&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shaheerali838&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shaheerali838&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shaheerali838&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📚 Beyond Coding
+
+I believe that **building and teaching go hand in hand**.
+
+Alongside developing software, I enjoy helping developers understand technical concepts, sharing what I learn, and creating educational content around **web development and software engineering**.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://instagram.com/shaheerali838">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://linkedin.com/in/shaheerali838">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shaheerali838&icon=0&color=0" alt="Profile Views"/>
+</p>
